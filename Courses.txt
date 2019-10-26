@@ -6,5 +6,9 @@ Java Testing
 Phyton
 Selenium
 
+Scripting Langaugaes
+VB
+JavaScript
+
 
 Thank you!
