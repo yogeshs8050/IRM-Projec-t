@@ -10,5 +10,8 @@ Scripting Langaugaes
 VB
 JavaScript
 
+Placement
+HCL
+Infosys
 
 Thank you!
